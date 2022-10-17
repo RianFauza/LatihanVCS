@@ -8,7 +8,7 @@
 
 git --version
 
-![Gambar1](gambar/git1.png)
+![Gambar1](gambar/git1.jpeg)
 
 #### - Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email
 #### - Konfigurasi ini bisa dilakukan untuk global repository atau individual repository
@@ -65,21 +65,21 @@ $ git init
 $ echo "# Latihan 1 " >> README.md
 
 #### - File README.md berhasil dibuat.
-![Gambar1](gambar/git2.png)
+![Gambar1](gambar/git2.jpeg)
 #### - Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
 
 $ git add README.md
 
 #### - File README.md berhasil ditambahkan.
 
-![Gambar1](gambar/git3.png)
+![Gambar1](gambar/git3.jpeg)
 
 ## Commit (Menyimpan Perubahan ke Database)
 
 #### - Untuk menyimpan perubahan yang ada kedalam databse repository lokal, gunakan perintah git commit -m "komentar commit"
 #### - Perubahann berhasil disimpan
 
-![Gambar1](gambar/git4.png)
+![Gambar1](gambar/git4.jpeg)
 
 ## Membuat Reposity Server
 
@@ -118,7 +118,7 @@ $ git push -u origin master
 #### - Buka laman github.com, arahkan pada repositorynya
 #### - Maka perubahan akan terlihat pada laman tersebut
 
-![Gambar1](gambar/git9.png)
+![Gambar1](gambar/git9.jpeg)
 
 
 ## Clone Repository
